@@ -1,0 +1,2 @@
+C:\Users\Arielle\Documents\GitHub\PONG_2D_OCT_30\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Arielle\Documents\GitHub\PONG_2D_OCT_30\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

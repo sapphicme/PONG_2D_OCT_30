@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 144b65a0dbdb3a44db7ed989be399359
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: square_ball
+    21300002: rectangular_paddle
+    21300004: rounded_paddle
+    21300006: round_ball
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: square_ball
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 164
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890a491a80b8e442abc1e154259656e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectangular_paddle
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 73
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c03e9f84208f41ac32d4bc729c412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rounded_paddle
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 12
+        width: 78
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d919d0c5d49148977c90a935cb879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round_ball
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 157
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52902abf106d7744f84fc4b7520bf227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 12, y: 189}
+      - {x: 6, y: 188}
+      - {x: 6, y: -182}
+      - {x: 10, y: -187}
+      - {x: 13, y: -189}
+      - {x: 39, y: -190}
+      - {x: 84, y: -190}
+      - {x: 87, y: -189}
+      - {x: 88, y: -182}
+      - {x: 88, y: 182}
+      - {x: 85, y: 189}
+    - - {x: -84, y: -186}
+      - {x: -82, y: -188}
+      - {x: -7, y: -188}
+      - {x: -7, y: 186}
+      - {x: -82, y: 186}
+      - {x: -84, y: 184}
+    - - {x: 114, y: 35}
+      - {x: 107, y: 15}
+      - {x: 107, y: -30}
+      - {x: 119, y: -45}
+      - {x: 169, y: -45}
+      - {x: 187, y: -41}
+      - {x: 187, y: 20}
+      - {x: 177, y: 35}
+    - - {x: -180, y: 35}
+      - {x: -182, y: 33}
+      - {x: -182, y: -37}
+      - {x: -180, y: -39}
+      - {x: -110, y: -39}
+      - {x: -108, y: -37}
+      - {x: -108, y: 33}
+      - {x: -110, y: 35}
+    physicsShape: []
+    bones: []
+    spriteID: d18ee73c26682b1489d033750d667260
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
